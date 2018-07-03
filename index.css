@@ -1,5 +1,5 @@
 body{
-    background: blue;
+    background: pink;
 }
 .mainComponent{
     border: 5px yellow solid;
@@ -9,4 +9,7 @@ body{
 }
 .profilePic{
     border : 5px black dashed;
+}
+.User{
+    border: black;
 }
